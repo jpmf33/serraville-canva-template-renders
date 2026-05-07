@@ -7,9 +7,10 @@ These files contain only public Serraville brand assets and public website/landi
 ## Sets
 
 - `t01` through `t18`: LP Exact System v2.
-- `t19` through `t28`: Research Extension v3, ten additional Story/feed/carousel/Reels template masters for Serraville Instagram/Facebook production.
+- `t19` through `t28`: Research Extension v4 approved, ten additional Story/feed/carousel/Reels template masters for Serraville Instagram/Facebook production. These overwrite the earlier v3 PNGs after GPT-5.5 layout-director approval.
 
 Contact sheets:
 
 - `sample-contact-sheet.jpg`: v2 overview.
 - `sample-contact-sheet-v3.jpg`: v3 overview.
+- `sample-contact-sheet-v4.jpg`: v4 approved overview.
